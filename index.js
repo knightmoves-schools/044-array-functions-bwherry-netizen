@@ -1,4 +1,4 @@
-let automobiles = [['bike', 'helicopter'], ['car', 'truck', 'motorcycle'], ['airplane', 'skateboard']]
+let automobiles = ['bike', 'helicopter'], ['car', 'truck', 'motorcycle'], ['airplane', 'skateboard']
 
 let automobilesCopy = automobiles;
 
@@ -6,6 +6,7 @@ let automobilesCopy = automobiles;
 
 
 document.getElementById("result").innerHTMl = automobiles;
+
 
 
 
