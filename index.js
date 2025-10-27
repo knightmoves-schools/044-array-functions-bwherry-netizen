@@ -1,6 +1,6 @@
 let automobiles = ['car', 'truck', 'motorcycle'];
-let automobiles.push('airplane', 'skateboard');
-let automobiles.unshift('bike', 'helicopter')
+let automobiles.unshift('airplane', 'skateboard');
+let automobiles.push('bike', 'helicopter')
 
 //let automobilesCopy = automobiles;
 //let automobiles.pop('helicopter')
@@ -10,6 +10,7 @@ let automobiles.unshift('bike', 'helicopter')
 
 
 document.getElementById("result").innerHTMl = automobiles;
+
 
 
 
