@@ -3,12 +3,13 @@ automobiles.push('airplane', 'skateboard');
 automobiles.unshift('bike', 'helicopter');
 
 let automobilesCopy = automobiles;
-automobiles.pop('helicopter');
+automobiles.pop('skateboard');
 automobiles.shift('bike');
 
 
 
 
 document.getElementById("result").innerHTML = automobiles;
+
 
 
